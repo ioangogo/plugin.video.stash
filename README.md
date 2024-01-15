@@ -6,25 +6,9 @@ your porn. It thus allows you to view the media you have organized in Stash in
 Kodi.
 
 ## Installation & Upgrades
-Installation and upgrade of the plugin is managed using a custom Kodi
-repository.
 
-1. [Download](https://github.com/gitgiggety/repository.stash/releases) the
-   latest release of the repository
-2. When needed copy the zip file to the system Kodi is running on
-3. Open Kodi
-4. Enable installation of addons from unknown sources by navigating to
-   *Setting/System/Add-ons* and enable *Unknown sources* and confirm
-5. Open the add-on browser by navigating to *Add-ons* and select the left icon
-   in the top of the navigation / sidebar
-6. Select *Install from zip file*
-7. Browse to the folder containing the zip file and select the file, the
-   repository is now installed
-8. Return to the main menu of the *Add-on Browser*
-9. Select *Install from repository*
-10. Select *Stash addon Repository* and continue to *Video add-ons*, *Stash Kodi
-   Plugin*
-11. Select *Install*
+Run `build.sh` as i am making changes as i go and havent got releases yet, if i have
+a release just download it and install it using the install from zip functionality following the steps [here](https://kodi.wiki/view/Add-on_manager#How_to_install_from_a_ZIP_file)
 
 ## Configuration
 ### Location of Stash
